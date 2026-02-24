@@ -1,4 +1,4 @@
-# Lab 02 — Environment Setup
+# Interactive Visualization - Lab 01: Environment Setup
 
 This document explains how to set up your Python environment and install all required packages before the lab session.
 
